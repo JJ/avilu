@@ -1,0 +1,8 @@
+---
+title: Avilu
+author: Joschua Fink
+rights: Creative Commons BY-SA 4.0
+language: de-DE
+description: "Jeder hatte schon einmal einen Traum, der eine Schuhnummer zu groß für ihn war. Avilus Traum ist für sie ein Schuhgeschäft zu groß: Die allerallerbeste Heldin aller Zeiten im ganzen Universum zu werden – egal was Roxy sagt. Als sie dann versehentlich einen Killer-Cyborg aus einer Paralleldimension herzaubert und ins Visier der heiligen Inquisition gerät, wird Avilu klar, dass sie sich bereits mitten in ihrem Traum befindet. Und der Taum ein Albtraum ist."
+cover-image: src/epub/cover.png
+...
