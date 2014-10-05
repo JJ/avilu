@@ -53,11 +53,11 @@ class Convert( object ):
             if out_format is "epub":
                out_files += [out_file]
 
-      if out_format is "epub":
-         print ( "pandoc -o " + out_path + "epub/avilu-" + language + ".epub src/epub/title-"
-            + language + ".txt src/epub/preamble-" + language + ".md " + " ".join( out_files ) );
-         subprocess.call( ["pandoc -o " + out_path + "epub/avilu-" + language + ".epub src/epub/title-"
-            + language + ".txt src/epub/preamble-" + language + ".md " + " ".join( out_files )] )
+      # if out_format is "epub":
+         # print ( "pandoc -o " + out_path + "epub/avilu-" + language + ".epub src/epub/title-"
+         #   + language + ".txt src/epub/preamble-" + language + ".md " + " ".join( out_files ) );
+         # subprocess.call( ["pandoc -o " + out_path + "epub/avilu-" + language + ".epub src/epub/title-"
+         #   + language + ".txt src/epub/preamble-" + language + ".md " + " ".join( out_files )] )
 
       #for tmp_file in out_files:
       #   os.remove( tmp_file )
